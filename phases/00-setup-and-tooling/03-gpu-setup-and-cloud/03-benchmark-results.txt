@@ -1,0 +1,4 @@
+matrix_size=5000
+cpu_time_s=1.074083
+gpu_time_s=0.181075
+speedup=5.93

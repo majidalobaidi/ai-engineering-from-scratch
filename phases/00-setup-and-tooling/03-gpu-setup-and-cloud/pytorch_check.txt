@@ -1,0 +1,7 @@
+python_executable=/home/moshassoni/miniforge/envs/ml-gpu3/bin/python
+python_version=3.12.13
+torch=2.6.0+cu124
+torch_cuda_version=12.4
+cuda_available=True
+device_name=NVIDIA GeForce RTX 2060
+total_memory_bytes=6442123264
